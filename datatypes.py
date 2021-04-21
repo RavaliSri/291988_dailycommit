@@ -1,0 +1,12 @@
+a=5
+print(type(a))
+b=9.8
+print(type(b))
+c='h'
+print(type(c))
+d="hello"
+print(type(d))
+e=[8,7]
+print(type(e))
+f=(6,"gun")
+print(type(f))
