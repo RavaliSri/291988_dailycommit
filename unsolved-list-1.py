@@ -10,3 +10,7 @@ s=min(l)
 l.remove(s)
 k=min(l)
 print(k)
+
+
+
+
