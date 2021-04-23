@@ -5,7 +5,7 @@ if (year % 400 == 0):
 elif (year % 100 == 0):
     leap = False
 elif (year % 4 == 0):
-    leap = True
+    leap =True
 else:
     leap = False
 
